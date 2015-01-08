@@ -1,0 +1,1 @@
+("6.1.1" ("7e855f3b31aeab32559099e9d1636f043f46616d" . "c4e90dba9d75c97431e88d8eebda737d45a54f58") (collects #"errortrace" #"errortrace-key.rkt") (collects #"pict" #"flash.rkt") (collects #"slideshow" #"main.rkt") #"C:\\Users\\zheji_000\\AppData\\Roaming\\Racket\\planet\\300\\6.1.1\\cache\\schematics\\random.plt\\1\\0\\random.rkt" (collects #"racket" #"runtime-config.rkt"))

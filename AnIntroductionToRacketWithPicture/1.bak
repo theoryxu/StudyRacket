@@ -1,0 +1,4 @@
+#lang slideshow
+
+(circle 10)
+(circle 20)

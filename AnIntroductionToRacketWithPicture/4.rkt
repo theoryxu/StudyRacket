@@ -1,0 +1,5 @@
+#lang racket
+
+(require "3.rkt")
+
+(rainbow (square 5))
